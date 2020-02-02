@@ -1,0 +1,8 @@
+*~
+.DS_Store
+.zeus.sock
+*pg_dump
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
